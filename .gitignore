@@ -1,0 +1,4 @@
+.venv/
+dollar_vacancies.json
+vacancies.json
+__pycache__/
